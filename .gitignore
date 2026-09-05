@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter & Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Temporary and Scratch Files
+scratch/
+*.log
+*.tmp
+
+# Environment and Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Data: Ignore heavy raw images, keep processed mappings & breed info DB
+data/raw/
+
+# Results logs
+results/*.log

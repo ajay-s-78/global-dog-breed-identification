@@ -1,0 +1,2147 @@
+{
+  "total_classes": 356,
+  "total_images": 1482,
+  "failed_breeds_count": 0,
+  "failed_breeds": [],
+  "breeds_under_20_count": 305,
+  "storage_used_mb": 16.82,
+  "storage_used_gb": 0.0164,
+  "all_breed_counts": [
+    {
+      "index": 0,
+      "breed_name": "Affenpinscher",
+      "folder": "000_affenpinscher",
+      "image_count": 20
+    },
+    {
+      "index": 1,
+      "breed_name": "Afghan Hound",
+      "folder": "001_afghan_hound",
+      "image_count": 1
+    },
+    {
+      "index": 2,
+      "breed_name": "Airedale Terrier",
+      "folder": "002_airedale_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 3,
+      "breed_name": "Akita",
+      "folder": "003_akita",
+      "image_count": 17
+    },
+    {
+      "index": 4,
+      "breed_name": "Alaskan Malamute",
+      "folder": "004_alaskan_malamute",
+      "image_count": 20
+    },
+    {
+      "index": 5,
+      "breed_name": "Alpine Dachsbracke",
+      "folder": "005_alpine_dachsbracke",
+      "image_count": 1
+    },
+    {
+      "index": 6,
+      "breed_name": "American Akita",
+      "folder": "006_american_akita",
+      "image_count": 1
+    },
+    {
+      "index": 7,
+      "breed_name": "American Cocker Spaniel",
+      "folder": "007_american_cocker_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 8,
+      "breed_name": "American Foxhound",
+      "folder": "008_american_foxhound",
+      "image_count": 1
+    },
+    {
+      "index": 9,
+      "breed_name": "American Staffordshire Terrier",
+      "folder": "009_american_staffordshire_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 10,
+      "breed_name": "American Water Spaniel",
+      "folder": "010_american_water_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 11,
+      "breed_name": "Appenzeller Sennenhund",
+      "folder": "011_appenzeller_sennenhund",
+      "image_count": 20
+    },
+    {
+      "index": 12,
+      "breed_name": "Ariegeois",
+      "folder": "012_ariegeois",
+      "image_count": 1
+    },
+    {
+      "index": 13,
+      "breed_name": "Artois Hound",
+      "folder": "013_artois_hound",
+      "image_count": 1
+    },
+    {
+      "index": 14,
+      "breed_name": "Australian Cattle Dog",
+      "folder": "014_australian_cattle_dog",
+      "image_count": 1
+    },
+    {
+      "index": 15,
+      "breed_name": "Australian Kelpie",
+      "folder": "015_australian_kelpie",
+      "image_count": 1
+    },
+    {
+      "index": 16,
+      "breed_name": "Australian Shepherd",
+      "folder": "016_australian_shepherd",
+      "image_count": 10
+    },
+    {
+      "index": 17,
+      "breed_name": "Australian Silky Terrier",
+      "folder": "017_australian_silky_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 18,
+      "breed_name": "Australian Terrier",
+      "folder": "018_australian_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 19,
+      "breed_name": "Austrian Black And Tan Hound",
+      "folder": "019_austrian_black_and_tan_hound",
+      "image_count": 1
+    },
+    {
+      "index": 20,
+      "breed_name": "Austrian Pinscher",
+      "folder": "020_austrian_pinscher",
+      "image_count": 1
+    },
+    {
+      "index": 21,
+      "breed_name": "Azawakh",
+      "folder": "021_azawakh",
+      "image_count": 1
+    },
+    {
+      "index": 22,
+      "breed_name": "Barbet",
+      "folder": "022_barbet",
+      "image_count": 1
+    },
+    {
+      "index": 23,
+      "breed_name": "Basenji",
+      "folder": "023_basenji",
+      "image_count": 20
+    },
+    {
+      "index": 24,
+      "breed_name": "Basset Bleu De Gascogne",
+      "folder": "024_basset_bleu_de_gascogne",
+      "image_count": 1
+    },
+    {
+      "index": 25,
+      "breed_name": "Basset Fauve De Bretagne",
+      "folder": "025_basset_fauve_de_bretagne",
+      "image_count": 1
+    },
+    {
+      "index": 26,
+      "breed_name": "Basset Hound",
+      "folder": "026_basset_hound",
+      "image_count": 20
+    },
+    {
+      "index": 27,
+      "breed_name": "Bavarian Mountain Hound",
+      "folder": "027_bavarian_mountain_hound",
+      "image_count": 1
+    },
+    {
+      "index": 28,
+      "breed_name": "Beagle",
+      "folder": "028_beagle",
+      "image_count": 20
+    },
+    {
+      "index": 29,
+      "breed_name": "Beagle Harrier",
+      "folder": "029_beagle_harrier",
+      "image_count": 1
+    },
+    {
+      "index": 30,
+      "breed_name": "Bearded Collie",
+      "folder": "030_bearded_collie",
+      "image_count": 1
+    },
+    {
+      "index": 31,
+      "breed_name": "Beauceron",
+      "folder": "031_beauceron",
+      "image_count": 1
+    },
+    {
+      "index": 32,
+      "breed_name": "Bedlington Terrier",
+      "folder": "032_bedlington_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 33,
+      "breed_name": "Belgian Shepherd Dog",
+      "folder": "033_belgian_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 34,
+      "breed_name": "Bergamasco Shepherd",
+      "folder": "034_bergamasco_shepherd",
+      "image_count": 1
+    },
+    {
+      "index": 35,
+      "breed_name": "Berger Picard",
+      "folder": "035_berger_picard",
+      "image_count": 1
+    },
+    {
+      "index": 36,
+      "breed_name": "Bernese Mountain Dog",
+      "folder": "036_bernese_mountain_dog",
+      "image_count": 20
+    },
+    {
+      "index": 37,
+      "breed_name": "Bichon Frise",
+      "folder": "037_bichon_frise",
+      "image_count": 20
+    },
+    {
+      "index": 38,
+      "breed_name": "Billy",
+      "folder": "038_billy",
+      "image_count": 1
+    },
+    {
+      "index": 39,
+      "breed_name": "Black And Tan Coonhound",
+      "folder": "039_black_and_tan_coonhound",
+      "image_count": 1
+    },
+    {
+      "index": 40,
+      "breed_name": "Black Russian Terrier",
+      "folder": "040_black_russian_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 41,
+      "breed_name": "Bloodhound",
+      "folder": "041_bloodhound",
+      "image_count": 20
+    },
+    {
+      "index": 42,
+      "breed_name": "Bolognese",
+      "folder": "042_bolognese",
+      "image_count": 1
+    },
+    {
+      "index": 43,
+      "breed_name": "Border Collie",
+      "folder": "043_border_collie",
+      "image_count": 20
+    },
+    {
+      "index": 44,
+      "breed_name": "Border Terrier",
+      "folder": "044_border_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 45,
+      "breed_name": "Borzoi",
+      "folder": "045_borzoi",
+      "image_count": 20
+    },
+    {
+      "index": 46,
+      "breed_name": "Boston Terrier",
+      "folder": "046_boston_terrier",
+      "image_count": 6
+    },
+    {
+      "index": 47,
+      "breed_name": "Bouvier Des Flandres",
+      "folder": "047_bouvier_des_flandres",
+      "image_count": 20
+    },
+    {
+      "index": 48,
+      "breed_name": "Boxer",
+      "folder": "048_boxer",
+      "image_count": 20
+    },
+    {
+      "index": 49,
+      "breed_name": "Boykin Spaniel",
+      "folder": "049_boykin_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 50,
+      "breed_name": "Bracco Italiano",
+      "folder": "050_bracco_italiano",
+      "image_count": 1
+    },
+    {
+      "index": 51,
+      "breed_name": "Braque d'Auvergne",
+      "folder": "051_braque_dauvergne",
+      "image_count": 1
+    },
+    {
+      "index": 52,
+      "breed_name": "Braque De L'Ariege",
+      "folder": "052_braque_de_lariege",
+      "image_count": 1
+    },
+    {
+      "index": 53,
+      "breed_name": "Braque Du Bourbonnais",
+      "folder": "053_braque_du_bourbonnais",
+      "image_count": 1
+    },
+    {
+      "index": 54,
+      "breed_name": "Braque Saint-Germain",
+      "folder": "054_braque_saint_germain",
+      "image_count": 1
+    },
+    {
+      "index": 55,
+      "breed_name": "Briard",
+      "folder": "055_briard",
+      "image_count": 20
+    },
+    {
+      "index": 56,
+      "breed_name": "Briquet Griffon Vendeen",
+      "folder": "056_briquet_griffon_vendeen",
+      "image_count": 1
+    },
+    {
+      "index": 57,
+      "breed_name": "Brittany",
+      "folder": "057_brittany",
+      "image_count": 1
+    },
+    {
+      "index": 58,
+      "breed_name": "Broholmer",
+      "folder": "058_broholmer",
+      "image_count": 1
+    },
+    {
+      "index": 59,
+      "breed_name": "Bull Terrier",
+      "folder": "059_bull_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 60,
+      "breed_name": "Bulldog",
+      "folder": "060_bulldog",
+      "image_count": 10
+    },
+    {
+      "index": 61,
+      "breed_name": "Bullmastiff",
+      "folder": "061_bullmastiff",
+      "image_count": 1
+    },
+    {
+      "index": 62,
+      "breed_name": "Cairn Terrier",
+      "folder": "062_cairn_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 63,
+      "breed_name": "Canaan Dog",
+      "folder": "063_canaan_dog",
+      "image_count": 1
+    },
+    {
+      "index": 64,
+      "breed_name": "Canadian Eskimo Dog",
+      "folder": "064_canadian_eskimo_dog",
+      "image_count": 1
+    },
+    {
+      "index": 65,
+      "breed_name": "Cane Corso",
+      "folder": "065_cane_corso",
+      "image_count": 1
+    },
+    {
+      "index": 66,
+      "breed_name": "Cao Da Serra De Aires",
+      "folder": "066_cao_da_serra_de_aires",
+      "image_count": 1
+    },
+    {
+      "index": 67,
+      "breed_name": "Cao De Castro Laboreiro",
+      "folder": "067_cao_de_castro_laboreiro",
+      "image_count": 1
+    },
+    {
+      "index": 68,
+      "breed_name": "Cao De Agua Portugues",
+      "folder": "068_cao_de_agua_portugues",
+      "image_count": 1
+    },
+    {
+      "index": 69,
+      "breed_name": "Cardigan Welsh Corgi",
+      "folder": "069_cardigan_welsh_corgi",
+      "image_count": 1
+    },
+    {
+      "index": 70,
+      "breed_name": "Cavalier King Charles Spaniel",
+      "folder": "070_cavalier_king_charles_spaniel",
+      "image_count": 19
+    },
+    {
+      "index": 71,
+      "breed_name": "Central Asian Shepherd Dog",
+      "folder": "071_central_asian_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 72,
+      "breed_name": "Cesky Fousek",
+      "folder": "072_cesky_fousek",
+      "image_count": 1
+    },
+    {
+      "index": 73,
+      "breed_name": "Cesky Terrier",
+      "folder": "073_cesky_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 74,
+      "breed_name": "Chesapeake Bay Retriever",
+      "folder": "074_chesapeake_bay_retriever",
+      "image_count": 1
+    },
+    {
+      "index": 75,
+      "breed_name": "Chihuahua",
+      "folder": "075_chihuahua",
+      "image_count": 17
+    },
+    {
+      "index": 76,
+      "breed_name": "Chinese Crested Dog",
+      "folder": "076_chinese_crested_dog",
+      "image_count": 1
+    },
+    {
+      "index": 77,
+      "breed_name": "Chow Chow",
+      "folder": "077_chow_chow",
+      "image_count": 16
+    },
+    {
+      "index": 78,
+      "breed_name": "Cimarr\u00f3n Uruguayo",
+      "folder": "078_cimarr\u00f3n_uruguayo",
+      "image_count": 1
+    },
+    {
+      "index": 79,
+      "breed_name": "Cirneco Dell'Etna",
+      "folder": "079_cirneco_delletna",
+      "image_count": 1
+    },
+    {
+      "index": 80,
+      "breed_name": "Clumber Spaniel",
+      "folder": "080_clumber_spaniel",
+      "image_count": 6
+    },
+    {
+      "index": 81,
+      "breed_name": "Coarse-haired Istrian Hound",
+      "folder": "081_coarse_haired_istrian_hound",
+      "image_count": 1
+    },
+    {
+      "index": 82,
+      "breed_name": "Collie Rough",
+      "folder": "082_collie_rough",
+      "image_count": 1
+    },
+    {
+      "index": 83,
+      "breed_name": "Collie Smooth",
+      "folder": "083_collie_smooth",
+      "image_count": 1
+    },
+    {
+      "index": 84,
+      "breed_name": "Coton De Tulear",
+      "folder": "084_coton_de_tulear",
+      "image_count": 1
+    },
+    {
+      "index": 85,
+      "breed_name": "Curly Coated Retriever",
+      "folder": "085_curly_coated_retriever",
+      "image_count": 1
+    },
+    {
+      "index": 86,
+      "breed_name": "Czechoslovakian Vlcak",
+      "folder": "086_czechoslovakian_vlcak",
+      "image_count": 1
+    },
+    {
+      "index": 87,
+      "breed_name": "Dachshund",
+      "folder": "087_dachshund",
+      "image_count": 10
+    },
+    {
+      "index": 88,
+      "breed_name": "Dalmatian",
+      "folder": "088_dalmatian",
+      "image_count": 2
+    },
+    {
+      "index": 89,
+      "breed_name": "Dandie Dinmont Terrier",
+      "folder": "089_dandie_dinmont_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 90,
+      "breed_name": "Danish-Swedish Farmdog",
+      "folder": "090_danish_swedish_farmdog",
+      "image_count": 1
+    },
+    {
+      "index": 91,
+      "breed_name": "Dobermann",
+      "folder": "091_dobermann",
+      "image_count": 10
+    },
+    {
+      "index": 92,
+      "breed_name": "Dogo Argentino",
+      "folder": "092_dogo_argentino",
+      "image_count": 1
+    },
+    {
+      "index": 93,
+      "breed_name": "Dogue De Bordeaux",
+      "folder": "093_dogue_de_bordeaux",
+      "image_count": 1
+    },
+    {
+      "index": 94,
+      "breed_name": "Drentsche Patrijshond",
+      "folder": "094_drentsche_patrijshond",
+      "image_count": 1
+    },
+    {
+      "index": 95,
+      "breed_name": "Drever",
+      "folder": "095_drever",
+      "image_count": 1
+    },
+    {
+      "index": 96,
+      "breed_name": "Dunker",
+      "folder": "096_dunker",
+      "image_count": 1
+    },
+    {
+      "index": 97,
+      "breed_name": "Dutch Shepherd Dog",
+      "folder": "097_dutch_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 98,
+      "breed_name": "Dutch Smoushond",
+      "folder": "098_dutch_smoushond",
+      "image_count": 1
+    },
+    {
+      "index": 99,
+      "breed_name": "East Siberian Laika",
+      "folder": "099_east_siberian_laika",
+      "image_count": 1
+    },
+    {
+      "index": 100,
+      "breed_name": "English Cocker Spaniel",
+      "folder": "100_english_cocker_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 101,
+      "breed_name": "English Foxhound",
+      "folder": "101_english_foxhound",
+      "image_count": 1
+    },
+    {
+      "index": 102,
+      "breed_name": "English Pointer",
+      "folder": "102_english_pointer",
+      "image_count": 1
+    },
+    {
+      "index": 103,
+      "breed_name": "English Setter",
+      "folder": "103_english_setter",
+      "image_count": 10
+    },
+    {
+      "index": 104,
+      "breed_name": "English Springer Spaniel",
+      "folder": "104_english_springer_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 105,
+      "breed_name": "English Toy Terrier",
+      "folder": "105_english_toy_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 106,
+      "breed_name": "Entlebucher Sennenhund",
+      "folder": "106_entlebucher_sennenhund",
+      "image_count": 1
+    },
+    {
+      "index": 107,
+      "breed_name": "Estonian Hound",
+      "folder": "107_estonian_hound",
+      "image_count": 1
+    },
+    {
+      "index": 108,
+      "breed_name": "Estrela Mountain Dog",
+      "folder": "108_estrela_mountain_dog",
+      "image_count": 1
+    },
+    {
+      "index": 109,
+      "breed_name": "Eurasier",
+      "folder": "109_eurasier",
+      "image_count": 1
+    },
+    {
+      "index": 110,
+      "breed_name": "Field Spaniel",
+      "folder": "110_field_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 111,
+      "breed_name": "Finnish Hound",
+      "folder": "111_finnish_hound",
+      "image_count": 1
+    },
+    {
+      "index": 112,
+      "breed_name": "Finnish Lapphund",
+      "folder": "112_finnish_lapphund",
+      "image_count": 1
+    },
+    {
+      "index": 113,
+      "breed_name": "Finnish Spitz",
+      "folder": "113_finnish_spitz",
+      "image_count": 1
+    },
+    {
+      "index": 114,
+      "breed_name": "Flat Coated Retriever",
+      "folder": "114_flat_coated_retriever",
+      "image_count": 1
+    },
+    {
+      "index": 115,
+      "breed_name": "Fox Terrier Smooth",
+      "folder": "115_fox_terrier_smooth",
+      "image_count": 1
+    },
+    {
+      "index": 116,
+      "breed_name": "Fox Terrier Wire",
+      "folder": "116_fox_terrier_wire",
+      "image_count": 1
+    },
+    {
+      "index": 117,
+      "breed_name": "French Bulldog",
+      "folder": "117_french_bulldog",
+      "image_count": 10
+    },
+    {
+      "index": 118,
+      "breed_name": "French Spaniel",
+      "folder": "118_french_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 119,
+      "breed_name": "Gascon Saintongeois",
+      "folder": "119_gascon_saintongeois",
+      "image_count": 1
+    },
+    {
+      "index": 120,
+      "breed_name": "German Hound",
+      "folder": "120_german_hound",
+      "image_count": 1
+    },
+    {
+      "index": 121,
+      "breed_name": "German Pinscher",
+      "folder": "121_german_pinscher",
+      "image_count": 1
+    },
+    {
+      "index": 122,
+      "breed_name": "German Shepherd Dog",
+      "folder": "122_german_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 123,
+      "breed_name": "German Spaniel",
+      "folder": "123_german_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 124,
+      "breed_name": "German Spitz",
+      "folder": "124_german_spitz",
+      "image_count": 1
+    },
+    {
+      "index": 125,
+      "breed_name": "German Wirehaired Pointer",
+      "folder": "125_german_wirehaired_pointer",
+      "image_count": 1
+    },
+    {
+      "index": 126,
+      "breed_name": "Giant Schnauzer",
+      "folder": "126_giant_schnauzer",
+      "image_count": 1
+    },
+    {
+      "index": 127,
+      "breed_name": "Glen Of Imaal Terrier",
+      "folder": "127_glen_of_imaal_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 128,
+      "breed_name": "Golden Retriever",
+      "folder": "128_golden_retriever",
+      "image_count": 10
+    },
+    {
+      "index": 129,
+      "breed_name": "Gordon Setter",
+      "folder": "129_gordon_setter",
+      "image_count": 1
+    },
+    {
+      "index": 130,
+      "breed_name": "Grand Basset Griffon Vendeen",
+      "folder": "130_grand_basset_griffon_vendeen",
+      "image_count": 1
+    },
+    {
+      "index": 131,
+      "breed_name": "Grand Bleu De Gascogne",
+      "folder": "131_grand_bleu_de_gascogne",
+      "image_count": 1
+    },
+    {
+      "index": 132,
+      "breed_name": "Great Dane",
+      "folder": "132_great_dane",
+      "image_count": 10
+    },
+    {
+      "index": 133,
+      "breed_name": "Great Pyrenees",
+      "folder": "133_great_pyrenees",
+      "image_count": 1
+    },
+    {
+      "index": 134,
+      "breed_name": "Greater Swiss Mountain Dog",
+      "folder": "134_greater_swiss_mountain_dog",
+      "image_count": 1
+    },
+    {
+      "index": 135,
+      "breed_name": "Greenland Dog",
+      "folder": "135_greenland_dog",
+      "image_count": 1
+    },
+    {
+      "index": 136,
+      "breed_name": "Greyhound",
+      "folder": "136_greyhound",
+      "image_count": 1
+    },
+    {
+      "index": 137,
+      "breed_name": "Griffon Bruxellois",
+      "folder": "137_griffon_bruxellois",
+      "image_count": 1
+    },
+    {
+      "index": 138,
+      "breed_name": "Griffon Nivernais",
+      "folder": "138_griffon_nivernais",
+      "image_count": 1
+    },
+    {
+      "index": 139,
+      "breed_name": "Hamiltonstovare",
+      "folder": "139_hamiltonstovare",
+      "image_count": 1
+    },
+    {
+      "index": 140,
+      "breed_name": "Hanover Hound",
+      "folder": "140_hanover_hound",
+      "image_count": 1
+    },
+    {
+      "index": 141,
+      "breed_name": "Harrier",
+      "folder": "141_harrier",
+      "image_count": 1
+    },
+    {
+      "index": 142,
+      "breed_name": "Havanese",
+      "folder": "142_havanese",
+      "image_count": 10
+    },
+    {
+      "index": 143,
+      "breed_name": "Hokkaido",
+      "folder": "143_hokkaido",
+      "image_count": 1
+    },
+    {
+      "index": 144,
+      "breed_name": "Hovawart",
+      "folder": "144_hovawart",
+      "image_count": 1
+    },
+    {
+      "index": 145,
+      "breed_name": "Hungarian Hound",
+      "folder": "145_hungarian_hound",
+      "image_count": 1
+    },
+    {
+      "index": 146,
+      "breed_name": "Ibizan Hound",
+      "folder": "146_ibizan_hound",
+      "image_count": 1
+    },
+    {
+      "index": 147,
+      "breed_name": "Icelandic Sheepdog",
+      "folder": "147_icelandic_sheepdog",
+      "image_count": 1
+    },
+    {
+      "index": 148,
+      "breed_name": "Irish Red And White Setter",
+      "folder": "148_irish_red_and_white_setter",
+      "image_count": 1
+    },
+    {
+      "index": 149,
+      "breed_name": "Irish Setter",
+      "folder": "149_irish_setter",
+      "image_count": 20
+    },
+    {
+      "index": 150,
+      "breed_name": "Irish Terrier",
+      "folder": "150_irish_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 151,
+      "breed_name": "Irish Water Spaniel",
+      "folder": "151_irish_water_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 152,
+      "breed_name": "Irish Wolfhound",
+      "folder": "152_irish_wolfhound",
+      "image_count": 1
+    },
+    {
+      "index": 153,
+      "breed_name": "Italian Greyhound",
+      "folder": "153_italian_greyhound",
+      "image_count": 1
+    },
+    {
+      "index": 154,
+      "breed_name": "Italian Spinone",
+      "folder": "154_italian_spinone",
+      "image_count": 1
+    },
+    {
+      "index": 155,
+      "breed_name": "Jack Russell Terrier",
+      "folder": "155_jack_russell_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 156,
+      "breed_name": "Japanese Chin",
+      "folder": "156_japanese_chin",
+      "image_count": 1
+    },
+    {
+      "index": 157,
+      "breed_name": "Japanese Spitz",
+      "folder": "157_japanese_spitz",
+      "image_count": 1
+    },
+    {
+      "index": 158,
+      "breed_name": "Japanese Terrier",
+      "folder": "158_japanese_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 159,
+      "breed_name": "J\u00e4mthund",
+      "folder": "159_j\u00e4mthund",
+      "image_count": 1
+    },
+    {
+      "index": 160,
+      "breed_name": "Kai Ken",
+      "folder": "160_kai_ken",
+      "image_count": 1
+    },
+    {
+      "index": 161,
+      "breed_name": "Kangal Shepherd Dog",
+      "folder": "161_kangal_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 162,
+      "breed_name": "Karelian Bear Dog",
+      "folder": "162_karelian_bear_dog",
+      "image_count": 1
+    },
+    {
+      "index": 163,
+      "breed_name": "Karst Shepherd Dog",
+      "folder": "163_karst_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 164,
+      "breed_name": "Keeshond",
+      "folder": "164_keeshond",
+      "image_count": 1
+    },
+    {
+      "index": 165,
+      "breed_name": "Kerry Blue Terrier",
+      "folder": "165_kerry_blue_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 166,
+      "breed_name": "King Charles Spaniel",
+      "folder": "166_king_charles_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 167,
+      "breed_name": "Kishu",
+      "folder": "167_kishu",
+      "image_count": 1
+    },
+    {
+      "index": 168,
+      "breed_name": "Komondor",
+      "folder": "168_komondor",
+      "image_count": 20
+    },
+    {
+      "index": 169,
+      "breed_name": "Kromfohrl\u00e4nder",
+      "folder": "169_kromfohrl\u00e4nder",
+      "image_count": 1
+    },
+    {
+      "index": 170,
+      "breed_name": "Kuvasz",
+      "folder": "170_kuvasz",
+      "image_count": 20
+    },
+    {
+      "index": 171,
+      "breed_name": "Labrador Retriever",
+      "folder": "171_labrador_retriever",
+      "image_count": 1
+    },
+    {
+      "index": 172,
+      "breed_name": "Lagotto Romagnolo",
+      "folder": "172_lagotto_romagnolo",
+      "image_count": 1
+    },
+    {
+      "index": 173,
+      "breed_name": "Lakeland Terrier",
+      "folder": "173_lakeland_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 174,
+      "breed_name": "Lancashire Heeler",
+      "folder": "174_lancashire_heeler",
+      "image_count": 1
+    },
+    {
+      "index": 175,
+      "breed_name": "Landseer",
+      "folder": "175_landseer",
+      "image_count": 1
+    },
+    {
+      "index": 176,
+      "breed_name": "Lapponian Herder",
+      "folder": "176_lapponian_herder",
+      "image_count": 1
+    },
+    {
+      "index": 177,
+      "breed_name": "Large Munsterlander",
+      "folder": "177_large_munsterlander",
+      "image_count": 1
+    },
+    {
+      "index": 178,
+      "breed_name": "Leonberger",
+      "folder": "178_leonberger",
+      "image_count": 1
+    },
+    {
+      "index": 179,
+      "breed_name": "Lhasa Apso",
+      "folder": "179_lhasa_apso",
+      "image_count": 20
+    },
+    {
+      "index": 180,
+      "breed_name": "L\u00f6wchen",
+      "folder": "180_l\u00f6wchen",
+      "image_count": 1
+    },
+    {
+      "index": 181,
+      "breed_name": "Maltese",
+      "folder": "181_maltese",
+      "image_count": 20
+    },
+    {
+      "index": 182,
+      "breed_name": "Manchester Terrier",
+      "folder": "182_manchester_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 183,
+      "breed_name": "Maremma Sheepdog",
+      "folder": "183_maremma_sheepdog",
+      "image_count": 1
+    },
+    {
+      "index": 184,
+      "breed_name": "Miniature Bull Terrier",
+      "folder": "184_miniature_bull_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 185,
+      "breed_name": "Miniature Pinscher",
+      "folder": "185_miniature_pinscher",
+      "image_count": 1
+    },
+    {
+      "index": 186,
+      "breed_name": "Miniature Schnauzer",
+      "folder": "186_miniature_schnauzer",
+      "image_count": 20
+    },
+    {
+      "index": 187,
+      "breed_name": "Montenegrin Mountain Hound",
+      "folder": "187_montenegrin_mountain_hound",
+      "image_count": 1
+    },
+    {
+      "index": 188,
+      "breed_name": "Mudi",
+      "folder": "188_mudi",
+      "image_count": 1
+    },
+    {
+      "index": 189,
+      "breed_name": "Neapolitan Mastiff",
+      "folder": "189_neapolitan_mastiff",
+      "image_count": 1
+    },
+    {
+      "index": 190,
+      "breed_name": "Nederlandse Kooikerhondje",
+      "folder": "190_nederlandse_kooikerhondje",
+      "image_count": 1
+    },
+    {
+      "index": 191,
+      "breed_name": "Newfoundland",
+      "folder": "191_newfoundland",
+      "image_count": 20
+    },
+    {
+      "index": 192,
+      "breed_name": "Norfolk Terrier",
+      "folder": "192_norfolk_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 193,
+      "breed_name": "Norrbottenspets",
+      "folder": "193_norrbottenspets",
+      "image_count": 1
+    },
+    {
+      "index": 194,
+      "breed_name": "Northeastern Hauling Dog",
+      "folder": "194_northeastern_hauling_dog",
+      "image_count": 1
+    },
+    {
+      "index": 195,
+      "breed_name": "Norwegian Elkhound",
+      "folder": "195_norwegian_elkhound",
+      "image_count": 20
+    },
+    {
+      "index": 196,
+      "breed_name": "Norwegian Buhund",
+      "folder": "196_norwegian_buhund",
+      "image_count": 1
+    },
+    {
+      "index": 197,
+      "breed_name": "Norwegian Lundehund",
+      "folder": "197_norwegian_lundehund",
+      "image_count": 1
+    },
+    {
+      "index": 198,
+      "breed_name": "Norwich Terrier",
+      "folder": "198_norwich_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 199,
+      "breed_name": "Nova Scotia Duck Tolling Retriever",
+      "folder": "199_nova_scotia_duck_tolling_retriever",
+      "image_count": 1
+    },
+    {
+      "index": 200,
+      "breed_name": "Old English Sheepdog",
+      "folder": "200_old_english_sheepdog",
+      "image_count": 20
+    },
+    {
+      "index": 201,
+      "breed_name": "Otterhound",
+      "folder": "201_otterhound",
+      "image_count": 20
+    },
+    {
+      "index": 202,
+      "breed_name": "Papillon",
+      "folder": "202_papillon",
+      "image_count": 20
+    },
+    {
+      "index": 203,
+      "breed_name": "Parson Russell Terrier",
+      "folder": "203_parson_russell_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 204,
+      "breed_name": "Pekingese",
+      "folder": "204_pekingese",
+      "image_count": 1
+    },
+    {
+      "index": 205,
+      "breed_name": "Pembroke Welsh Corgi",
+      "folder": "205_pembroke_welsh_corgi",
+      "image_count": 20
+    },
+    {
+      "index": 206,
+      "breed_name": "Perro De Presa Canario",
+      "folder": "206_perro_de_presa_canario",
+      "image_count": 1
+    },
+    {
+      "index": 207,
+      "breed_name": "Peruvian Hairless Dog",
+      "folder": "207_peruvian_hairless_dog",
+      "image_count": 1
+    },
+    {
+      "index": 208,
+      "breed_name": "Petit Basset Griffon Vendeen",
+      "folder": "208_petit_basset_griffon_vendeen",
+      "image_count": 1
+    },
+    {
+      "index": 209,
+      "breed_name": "Petit Braban\u00e7on",
+      "folder": "209_petit_braban\u00e7on",
+      "image_count": 1
+    },
+    {
+      "index": 210,
+      "breed_name": "Pharaoh Hound",
+      "folder": "210_pharaoh_hound",
+      "image_count": 1
+    },
+    {
+      "index": 211,
+      "breed_name": "Picardy Spaniel",
+      "folder": "211_picardy_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 212,
+      "breed_name": "Plott Hound",
+      "folder": "212_plott_hound",
+      "image_count": 1
+    },
+    {
+      "index": 213,
+      "breed_name": "Podenco Canario",
+      "folder": "213_podenco_canario",
+      "image_count": 1
+    },
+    {
+      "index": 214,
+      "breed_name": "Pointer",
+      "folder": "214_pointer",
+      "image_count": 1
+    },
+    {
+      "index": 215,
+      "breed_name": "Poitevin",
+      "folder": "215_poitevin",
+      "image_count": 1
+    },
+    {
+      "index": 216,
+      "breed_name": "Polish Greyhound",
+      "folder": "216_polish_greyhound",
+      "image_count": 1
+    },
+    {
+      "index": 217,
+      "breed_name": "Polish Hound",
+      "folder": "217_polish_hound",
+      "image_count": 1
+    },
+    {
+      "index": 218,
+      "breed_name": "Polish Lowland Sheepdog",
+      "folder": "218_polish_lowland_sheepdog",
+      "image_count": 1
+    },
+    {
+      "index": 219,
+      "breed_name": "Pomeranian",
+      "folder": "219_pomeranian",
+      "image_count": 20
+    },
+    {
+      "index": 220,
+      "breed_name": "Poodle Standard",
+      "folder": "220_poodle_standard",
+      "image_count": 20
+    },
+    {
+      "index": 221,
+      "breed_name": "Poodle Miniature",
+      "folder": "221_poodle_miniature",
+      "image_count": 1
+    },
+    {
+      "index": 222,
+      "breed_name": "Poodle Toy",
+      "folder": "222_poodle_toy",
+      "image_count": 1
+    },
+    {
+      "index": 223,
+      "breed_name": "Porcelaine",
+      "folder": "223_porcelaine",
+      "image_count": 1
+    },
+    {
+      "index": 224,
+      "breed_name": "Portuguese Podengo",
+      "folder": "224_portuguese_podengo",
+      "image_count": 1
+    },
+    {
+      "index": 225,
+      "breed_name": "Portuguese Pointer",
+      "folder": "225_portuguese_pointer",
+      "image_count": 1
+    },
+    {
+      "index": 226,
+      "breed_name": "Posavac Hound",
+      "folder": "226_posavac_hound",
+      "image_count": 1
+    },
+    {
+      "index": 227,
+      "breed_name": "Pudelpointer",
+      "folder": "227_pudelpointer",
+      "image_count": 1
+    },
+    {
+      "index": 228,
+      "breed_name": "Pug",
+      "folder": "228_pug",
+      "image_count": 20
+    },
+    {
+      "index": 229,
+      "breed_name": "Puli",
+      "folder": "229_puli",
+      "image_count": 1
+    },
+    {
+      "index": 230,
+      "breed_name": "Pumi",
+      "folder": "230_pumi",
+      "image_count": 1
+    },
+    {
+      "index": 231,
+      "breed_name": "Pyrenean Mastiff",
+      "folder": "231_pyrenean_mastiff",
+      "image_count": 1
+    },
+    {
+      "index": 232,
+      "breed_name": "Pyrenean Mountain Dog",
+      "folder": "232_pyrenean_mountain_dog",
+      "image_count": 1
+    },
+    {
+      "index": 233,
+      "breed_name": "Pyrenean Sheepdog",
+      "folder": "233_pyrenean_sheepdog",
+      "image_count": 1
+    },
+    {
+      "index": 234,
+      "breed_name": "Rafeiro Do Alentejo",
+      "folder": "234_rafeiro_do_alentejo",
+      "image_count": 1
+    },
+    {
+      "index": 235,
+      "breed_name": "Rhodesian Ridgeback",
+      "folder": "235_rhodesian_ridgeback",
+      "image_count": 20
+    },
+    {
+      "index": 236,
+      "breed_name": "Rottweiler",
+      "folder": "236_rottweiler",
+      "image_count": 20
+    },
+    {
+      "index": 237,
+      "breed_name": "Romanian Mioritic Shepherd Dog",
+      "folder": "237_romanian_mioritic_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 238,
+      "breed_name": "Russian Toy",
+      "folder": "238_russian_toy",
+      "image_count": 1
+    },
+    {
+      "index": 239,
+      "breed_name": "Saarloos Wolfdog",
+      "folder": "239_saarloos_wolfdog",
+      "image_count": 1
+    },
+    {
+      "index": 240,
+      "breed_name": "Saint Bernard",
+      "folder": "240_saint_bernard",
+      "image_count": 20
+    },
+    {
+      "index": 241,
+      "breed_name": "Saluki",
+      "folder": "241_saluki",
+      "image_count": 20
+    },
+    {
+      "index": 242,
+      "breed_name": "Samoyed",
+      "folder": "242_samoyed",
+      "image_count": 20
+    },
+    {
+      "index": 243,
+      "breed_name": "Schapendoes",
+      "folder": "243_schapendoes",
+      "image_count": 1
+    },
+    {
+      "index": 244,
+      "breed_name": "Schillerstovare",
+      "folder": "244_schillerstovare",
+      "image_count": 1
+    },
+    {
+      "index": 245,
+      "breed_name": "Schipperke",
+      "folder": "245_schipperke",
+      "image_count": 20
+    },
+    {
+      "index": 246,
+      "breed_name": "Schnauzer Standard",
+      "folder": "246_schnauzer_standard",
+      "image_count": 1
+    },
+    {
+      "index": 247,
+      "breed_name": "Scottish Deerhound",
+      "folder": "247_scottish_deerhound",
+      "image_count": 1
+    },
+    {
+      "index": 248,
+      "breed_name": "Scottish Terrier",
+      "folder": "248_scottish_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 249,
+      "breed_name": "Sealyham Terrier",
+      "folder": "249_sealyham_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 250,
+      "breed_name": "Segugio Italiano",
+      "folder": "250_segugio_italiano",
+      "image_count": 1
+    },
+    {
+      "index": 251,
+      "breed_name": "Shar Pei",
+      "folder": "251_shar_pei",
+      "image_count": 1
+    },
+    {
+      "index": 252,
+      "breed_name": "Shetland Sheepdog",
+      "folder": "252_shetland_sheepdog",
+      "image_count": 20
+    },
+    {
+      "index": 253,
+      "breed_name": "Shiba Inu",
+      "folder": "253_shiba_inu",
+      "image_count": 20
+    },
+    {
+      "index": 254,
+      "breed_name": "Shih Tzu",
+      "folder": "254_shih_tzu",
+      "image_count": 1
+    },
+    {
+      "index": 255,
+      "breed_name": "Shikoku",
+      "folder": "255_shikoku",
+      "image_count": 1
+    },
+    {
+      "index": 256,
+      "breed_name": "Siberian Husky",
+      "folder": "256_siberian_husky",
+      "image_count": 20
+    },
+    {
+      "index": 257,
+      "breed_name": "Skye Terrier",
+      "folder": "257_skye_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 258,
+      "breed_name": "Sloughi",
+      "folder": "258_sloughi",
+      "image_count": 1
+    },
+    {
+      "index": 259,
+      "breed_name": "Slovakian Chovac",
+      "folder": "259_slovakian_chovac",
+      "image_count": 1
+    },
+    {
+      "index": 260,
+      "breed_name": "Small Munsterlander",
+      "folder": "260_small_munsterlander",
+      "image_count": 1
+    },
+    {
+      "index": 261,
+      "breed_name": "Smooth Fox Terrier",
+      "folder": "261_smooth_fox_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 262,
+      "breed_name": "Soft Coated Wheaten Terrier",
+      "folder": "262_soft_coated_wheaten_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 263,
+      "breed_name": "Spanish Mastiff",
+      "folder": "263_spanish_mastiff",
+      "image_count": 1
+    },
+    {
+      "index": 264,
+      "breed_name": "Spanish Water Dog",
+      "folder": "264_spanish_water_dog",
+      "image_count": 1
+    },
+    {
+      "index": 265,
+      "breed_name": "Spinone Italiano",
+      "folder": "265_spinone_italiano",
+      "image_count": 1
+    },
+    {
+      "index": 266,
+      "breed_name": "Stabyhoun",
+      "folder": "266_stabyhoun",
+      "image_count": 1
+    },
+    {
+      "index": 267,
+      "breed_name": "Staffordshire Bull Terrier",
+      "folder": "267_staffordshire_bull_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 268,
+      "breed_name": "Standard Schnauzer",
+      "folder": "268_standard_schnauzer",
+      "image_count": 1
+    },
+    {
+      "index": 269,
+      "breed_name": "Sussex Spaniel",
+      "folder": "269_sussex_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 270,
+      "breed_name": "Swedish Lapphund",
+      "folder": "270_swedish_lapphund",
+      "image_count": 1
+    },
+    {
+      "index": 271,
+      "breed_name": "Swiss Hound",
+      "folder": "271_swiss_hound",
+      "image_count": 1
+    },
+    {
+      "index": 272,
+      "breed_name": "Taiwan Dog",
+      "folder": "272_taiwan_dog",
+      "image_count": 1
+    },
+    {
+      "index": 273,
+      "breed_name": "Tatra Shepherd Dog",
+      "folder": "273_tatra_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 274,
+      "breed_name": "Thai Ridgeback",
+      "folder": "274_thai_ridgeback",
+      "image_count": 1
+    },
+    {
+      "index": 275,
+      "breed_name": "Tibetan Mastiff",
+      "folder": "275_tibetan_mastiff",
+      "image_count": 20
+    },
+    {
+      "index": 276,
+      "breed_name": "Tibetan Spaniel",
+      "folder": "276_tibetan_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 277,
+      "breed_name": "Tibetan Terrier",
+      "folder": "277_tibetan_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 278,
+      "breed_name": "Tosa",
+      "folder": "278_tosa",
+      "image_count": 1
+    },
+    {
+      "index": 279,
+      "breed_name": "Toy Fox Terrier",
+      "folder": "279_toy_fox_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 280,
+      "breed_name": "Treeing Walker Coonhound",
+      "folder": "280_treeing_walker_coonhound",
+      "image_count": 1
+    },
+    {
+      "index": 281,
+      "breed_name": "Tyrolean Hound",
+      "folder": "281_tyrolean_hound",
+      "image_count": 1
+    },
+    {
+      "index": 282,
+      "breed_name": "Vizsla Wirehaired",
+      "folder": "282_vizsla_wirehaired",
+      "image_count": 1
+    },
+    {
+      "index": 283,
+      "breed_name": "Volpino Italiano",
+      "folder": "283_volpino_italiano",
+      "image_count": 1
+    },
+    {
+      "index": 284,
+      "breed_name": "Weimaraner",
+      "folder": "284_weimaraner",
+      "image_count": 20
+    },
+    {
+      "index": 285,
+      "breed_name": "Welsh Springer Spaniel",
+      "folder": "285_welsh_springer_spaniel",
+      "image_count": 20
+    },
+    {
+      "index": 286,
+      "breed_name": "Welsh Terrier",
+      "folder": "286_welsh_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 287,
+      "breed_name": "West Highland White Terrier",
+      "folder": "287_west_highland_white_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 288,
+      "breed_name": "West Siberian Laika",
+      "folder": "288_west_siberian_laika",
+      "image_count": 1
+    },
+    {
+      "index": 289,
+      "breed_name": "Wetterhoun",
+      "folder": "289_wetterhoun",
+      "image_count": 1
+    },
+    {
+      "index": 290,
+      "breed_name": "Whippet",
+      "folder": "290_whippet",
+      "image_count": 20
+    },
+    {
+      "index": 291,
+      "breed_name": "White Swiss Shepherd Dog",
+      "folder": "291_white_swiss_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 292,
+      "breed_name": "Wirehaired Pointing Griffon",
+      "folder": "292_wirehaired_pointing_griffon",
+      "image_count": 1
+    },
+    {
+      "index": 293,
+      "breed_name": "Xoloitzcuintli",
+      "folder": "293_xoloitzcuintli",
+      "image_count": 1
+    },
+    {
+      "index": 294,
+      "breed_name": "Yakutian Laika",
+      "folder": "294_yakutian_laika",
+      "image_count": 1
+    },
+    {
+      "index": 295,
+      "breed_name": "Yorkshire Terrier",
+      "folder": "295_yorkshire_terrier",
+      "image_count": 20
+    },
+    {
+      "index": 296,
+      "breed_name": "Yugoslavian Shepherd Dog",
+      "folder": "296_yugoslavian_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 297,
+      "breed_name": "American Bully",
+      "folder": "297_american_bully",
+      "image_count": 1
+    },
+    {
+      "index": 298,
+      "breed_name": "Australian Stumpy Tail Cattle Dog",
+      "folder": "298_australian_stumpy_tail_cattle_dog",
+      "image_count": 1
+    },
+    {
+      "index": 299,
+      "breed_name": "Barbet French Water Dog",
+      "folder": "299_barbet_french_water_dog",
+      "image_count": 1
+    },
+    {
+      "index": 300,
+      "breed_name": "Boerboel",
+      "folder": "300_boerboel",
+      "image_count": 1
+    },
+    {
+      "index": 301,
+      "breed_name": "Bulgarian Shepherd",
+      "folder": "301_bulgarian_shepherd",
+      "image_count": 1
+    },
+    {
+      "index": 302,
+      "breed_name": "Catahoula Leopard Dog",
+      "folder": "302_catahoula_leopard_dog",
+      "image_count": 1
+    },
+    {
+      "index": 303,
+      "breed_name": "Caucasian Shepherd Dog",
+      "folder": "303_caucasian_shepherd_dog",
+      "image_count": 1
+    },
+    {
+      "index": 304,
+      "breed_name": "Central Asian Ovcharka",
+      "folder": "304_central_asian_ovcharka",
+      "image_count": 1
+    },
+    {
+      "index": 305,
+      "breed_name": "Chodsky Pes",
+      "folder": "305_chodsky_pes",
+      "image_count": 1
+    },
+    {
+      "index": 306,
+      "breed_name": "Denmark Farmdog",
+      "folder": "306_denmark_farmdog",
+      "image_count": 1
+    },
+    {
+      "index": 307,
+      "breed_name": "Eurasier Spitz",
+      "folder": "307_eurasier_spitz",
+      "image_count": 1
+    },
+    {
+      "index": 308,
+      "breed_name": "Gaddi Kutta",
+      "folder": "308_gaddi_kutta",
+      "image_count": 1
+    },
+    {
+      "index": 309,
+      "breed_name": "Kintamani Dog",
+      "folder": "309_kintamani_dog",
+      "image_count": 1
+    },
+    {
+      "index": 310,
+      "breed_name": "Koolie",
+      "folder": "310_koolie",
+      "image_count": 1
+    },
+    {
+      "index": 311,
+      "breed_name": "Mudhol Hound",
+      "folder": "311_mudhol_hound",
+      "image_count": 1
+    },
+    {
+      "index": 312,
+      "breed_name": "Patterdale Terrier",
+      "folder": "312_patterdale_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 313,
+      "breed_name": "Rajapalayam",
+      "folder": "313_rajapalayam",
+      "image_count": 1
+    },
+    {
+      "index": 314,
+      "breed_name": "Rampur Greyhound",
+      "folder": "314_rampur_greyhound",
+      "image_count": 1
+    },
+    {
+      "index": 315,
+      "breed_name": "Russian Spaniel",
+      "folder": "315_russian_spaniel",
+      "image_count": 1
+    },
+    {
+      "index": 316,
+      "breed_name": "Salish Wool Dog",
+      "folder": "316_salish_wool_dog",
+      "image_count": 1
+    },
+    {
+      "index": 317,
+      "breed_name": "Sapsali",
+      "folder": "317_sapsali",
+      "image_count": 1
+    },
+    {
+      "index": 318,
+      "breed_name": "Silken Windhound",
+      "folder": "318_silken_windhound",
+      "image_count": 1
+    },
+    {
+      "index": 319,
+      "breed_name": "Tamaskan Dog",
+      "folder": "319_tamaskan_dog",
+      "image_count": 1
+    },
+    {
+      "index": 320,
+      "breed_name": "Tornjak",
+      "folder": "320_tornjak",
+      "image_count": 1
+    },
+    {
+      "index": 321,
+      "breed_name": "Transylvanian Hound",
+      "folder": "321_transylvanian_hound",
+      "image_count": 1
+    },
+    {
+      "index": 322,
+      "breed_name": "Treeing Cur",
+      "folder": "322_treeing_cur",
+      "image_count": 1
+    },
+    {
+      "index": 323,
+      "breed_name": "Verde Terrier",
+      "folder": "323_verde_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 324,
+      "breed_name": "Welsh Corgi Cardigan",
+      "folder": "324_welsh_corgi_cardigan",
+      "image_count": 1
+    },
+    {
+      "index": 325,
+      "breed_name": "Welsh Corgi Pembroke",
+      "folder": "325_welsh_corgi_pembroke",
+      "image_count": 1
+    },
+    {
+      "index": 326,
+      "breed_name": "Wetterhoun Frisian",
+      "folder": "326_wetterhoun_frisian",
+      "image_count": 1
+    },
+    {
+      "index": 327,
+      "breed_name": "Working Kelpie",
+      "folder": "327_working_kelpie",
+      "image_count": 1
+    },
+    {
+      "index": 328,
+      "breed_name": "Alaskan Klee Kai",
+      "folder": "328_alaskan_klee_kai",
+      "image_count": 1
+    },
+    {
+      "index": 329,
+      "breed_name": "American Pit Bull Terrier",
+      "folder": "329_american_pit_bull_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 330,
+      "breed_name": "American Hairless Terrier",
+      "folder": "330_american_hairless_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 331,
+      "breed_name": "Black and Tan Virginian Hound",
+      "folder": "331_black_and_tan_virginian_hound",
+      "image_count": 1
+    },
+    {
+      "index": 332,
+      "breed_name": "Blue Lacy",
+      "folder": "332_blue_lacy",
+      "image_count": 1
+    },
+    {
+      "index": 333,
+      "breed_name": "Boykin Spaniel Water Dog",
+      "folder": "333_boykin_spaniel_water_dog",
+      "image_count": 1
+    },
+    {
+      "index": 334,
+      "breed_name": "Carolina Dog",
+      "folder": "334_carolina_dog",
+      "image_count": 1
+    },
+    {
+      "index": 335,
+      "breed_name": "Catahoula Leopard Hound",
+      "folder": "335_catahoula_leopard_hound",
+      "image_count": 1
+    },
+    {
+      "index": 336,
+      "breed_name": "Chinook",
+      "folder": "336_chinook",
+      "image_count": 1
+    },
+    {
+      "index": 337,
+      "breed_name": "Cockapoo",
+      "folder": "337_cockapoo",
+      "image_count": 20
+    },
+    {
+      "index": 338,
+      "breed_name": "Doberman Pinscher Standard",
+      "folder": "338_doberman_pinscher_standard",
+      "image_count": 1
+    },
+    {
+      "index": 339,
+      "breed_name": "Goldendoodle",
+      "folder": "339_goldendoodle",
+      "image_count": 1
+    },
+    {
+      "index": 340,
+      "breed_name": "Labradoodle",
+      "folder": "340_labradoodle",
+      "image_count": 1
+    },
+    {
+      "index": 341,
+      "breed_name": "Miniature American Shepherd",
+      "folder": "341_miniature_american_shepherd",
+      "image_count": 1
+    },
+    {
+      "index": 342,
+      "breed_name": "Mi-Ki",
+      "folder": "342_mi_ki",
+      "image_count": 1
+    },
+    {
+      "index": 343,
+      "breed_name": "Olde English Bulldogge",
+      "folder": "343_olde_english_bulldogge",
+      "image_count": 1
+    },
+    {
+      "index": 344,
+      "breed_name": "Peakapoo",
+      "folder": "344_peakapoo",
+      "image_count": 1
+    },
+    {
+      "index": 345,
+      "breed_name": "Pitsky",
+      "folder": "345_pitsky",
+      "image_count": 1
+    },
+    {
+      "index": 346,
+      "breed_name": "Puggle",
+      "folder": "346_puggle",
+      "image_count": 1
+    },
+    {
+      "index": 347,
+      "breed_name": "Rat Terrier",
+      "folder": "347_rat_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 348,
+      "breed_name": "Redbone Coonhound",
+      "folder": "348_redbone_coonhound",
+      "image_count": 1
+    },
+    {
+      "index": 349,
+      "breed_name": "Schnoodle",
+      "folder": "349_schnoodle",
+      "image_count": 1
+    },
+    {
+      "index": 350,
+      "breed_name": "Shollie",
+      "folder": "350_shollie",
+      "image_count": 1
+    },
+    {
+      "index": 351,
+      "breed_name": "St. Bernard Mountain Dog",
+      "folder": "351_st._bernard_mountain_dog",
+      "image_count": 1
+    },
+    {
+      "index": 352,
+      "breed_name": "Teddy Roosevelt Terrier",
+      "folder": "352_teddy_roosevelt_terrier",
+      "image_count": 1
+    },
+    {
+      "index": 353,
+      "breed_name": "Texas Heeler",
+      "folder": "353_texas_heeler",
+      "image_count": 1
+    },
+    {
+      "index": 354,
+      "breed_name": "Treeing Tennessee Brindle",
+      "folder": "354_treeing_tennessee_brindle",
+      "image_count": 1
+    },
+    {
+      "index": 355,
+      "breed_name": "Volpino Italiano Standard",
+      "folder": "355_volpino_italiano_standard",
+      "image_count": 1
+    }
+  ]
+}

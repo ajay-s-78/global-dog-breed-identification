@@ -1,0 +1,1788 @@
+{
+  "total_classes": 356,
+  "total_valid_images": 7120,
+  "all_classes_verified": true,
+  "class_mapping_source": "data/processed/dog_breeds_356.json",
+  "class_details": [
+    {
+      "index": 0,
+      "breed_name": "Affenpinscher",
+      "valid_count": 20
+    },
+    {
+      "index": 1,
+      "breed_name": "Afghan Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 2,
+      "breed_name": "Airedale Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 3,
+      "breed_name": "Akita",
+      "valid_count": 20
+    },
+    {
+      "index": 4,
+      "breed_name": "Alaskan Malamute",
+      "valid_count": 20
+    },
+    {
+      "index": 5,
+      "breed_name": "Alpine Dachsbracke",
+      "valid_count": 20
+    },
+    {
+      "index": 6,
+      "breed_name": "American Akita",
+      "valid_count": 20
+    },
+    {
+      "index": 7,
+      "breed_name": "American Cocker Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 8,
+      "breed_name": "American Foxhound",
+      "valid_count": 20
+    },
+    {
+      "index": 9,
+      "breed_name": "American Staffordshire Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 10,
+      "breed_name": "American Water Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 11,
+      "breed_name": "Appenzeller Sennenhund",
+      "valid_count": 20
+    },
+    {
+      "index": 12,
+      "breed_name": "Ariegeois",
+      "valid_count": 20
+    },
+    {
+      "index": 13,
+      "breed_name": "Artois Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 14,
+      "breed_name": "Australian Cattle Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 15,
+      "breed_name": "Australian Kelpie",
+      "valid_count": 20
+    },
+    {
+      "index": 16,
+      "breed_name": "Australian Shepherd",
+      "valid_count": 20
+    },
+    {
+      "index": 17,
+      "breed_name": "Australian Silky Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 18,
+      "breed_name": "Australian Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 19,
+      "breed_name": "Austrian Black And Tan Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 20,
+      "breed_name": "Austrian Pinscher",
+      "valid_count": 20
+    },
+    {
+      "index": 21,
+      "breed_name": "Azawakh",
+      "valid_count": 20
+    },
+    {
+      "index": 22,
+      "breed_name": "Barbet",
+      "valid_count": 20
+    },
+    {
+      "index": 23,
+      "breed_name": "Basenji",
+      "valid_count": 20
+    },
+    {
+      "index": 24,
+      "breed_name": "Basset Bleu De Gascogne",
+      "valid_count": 20
+    },
+    {
+      "index": 25,
+      "breed_name": "Basset Fauve De Bretagne",
+      "valid_count": 20
+    },
+    {
+      "index": 26,
+      "breed_name": "Basset Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 27,
+      "breed_name": "Bavarian Mountain Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 28,
+      "breed_name": "Beagle",
+      "valid_count": 20
+    },
+    {
+      "index": 29,
+      "breed_name": "Beagle Harrier",
+      "valid_count": 20
+    },
+    {
+      "index": 30,
+      "breed_name": "Bearded Collie",
+      "valid_count": 20
+    },
+    {
+      "index": 31,
+      "breed_name": "Beauceron",
+      "valid_count": 20
+    },
+    {
+      "index": 32,
+      "breed_name": "Bedlington Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 33,
+      "breed_name": "Belgian Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 34,
+      "breed_name": "Bergamasco Shepherd",
+      "valid_count": 20
+    },
+    {
+      "index": 35,
+      "breed_name": "Berger Picard",
+      "valid_count": 20
+    },
+    {
+      "index": 36,
+      "breed_name": "Bernese Mountain Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 37,
+      "breed_name": "Bichon Frise",
+      "valid_count": 20
+    },
+    {
+      "index": 38,
+      "breed_name": "Billy",
+      "valid_count": 20
+    },
+    {
+      "index": 39,
+      "breed_name": "Black And Tan Coonhound",
+      "valid_count": 20
+    },
+    {
+      "index": 40,
+      "breed_name": "Black Russian Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 41,
+      "breed_name": "Bloodhound",
+      "valid_count": 20
+    },
+    {
+      "index": 42,
+      "breed_name": "Bolognese",
+      "valid_count": 20
+    },
+    {
+      "index": 43,
+      "breed_name": "Border Collie",
+      "valid_count": 20
+    },
+    {
+      "index": 44,
+      "breed_name": "Border Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 45,
+      "breed_name": "Borzoi",
+      "valid_count": 20
+    },
+    {
+      "index": 46,
+      "breed_name": "Boston Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 47,
+      "breed_name": "Bouvier Des Flandres",
+      "valid_count": 20
+    },
+    {
+      "index": 48,
+      "breed_name": "Boxer",
+      "valid_count": 20
+    },
+    {
+      "index": 49,
+      "breed_name": "Boykin Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 50,
+      "breed_name": "Bracco Italiano",
+      "valid_count": 20
+    },
+    {
+      "index": 51,
+      "breed_name": "Braque d'Auvergne",
+      "valid_count": 20
+    },
+    {
+      "index": 52,
+      "breed_name": "Braque De L'Ariege",
+      "valid_count": 20
+    },
+    {
+      "index": 53,
+      "breed_name": "Braque Du Bourbonnais",
+      "valid_count": 20
+    },
+    {
+      "index": 54,
+      "breed_name": "Braque Saint-Germain",
+      "valid_count": 20
+    },
+    {
+      "index": 55,
+      "breed_name": "Briard",
+      "valid_count": 20
+    },
+    {
+      "index": 56,
+      "breed_name": "Briquet Griffon Vendeen",
+      "valid_count": 20
+    },
+    {
+      "index": 57,
+      "breed_name": "Brittany",
+      "valid_count": 20
+    },
+    {
+      "index": 58,
+      "breed_name": "Broholmer",
+      "valid_count": 20
+    },
+    {
+      "index": 59,
+      "breed_name": "Bull Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 60,
+      "breed_name": "Bulldog",
+      "valid_count": 20
+    },
+    {
+      "index": 61,
+      "breed_name": "Bullmastiff",
+      "valid_count": 20
+    },
+    {
+      "index": 62,
+      "breed_name": "Cairn Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 63,
+      "breed_name": "Canaan Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 64,
+      "breed_name": "Canadian Eskimo Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 65,
+      "breed_name": "Cane Corso",
+      "valid_count": 20
+    },
+    {
+      "index": 66,
+      "breed_name": "Cao Da Serra De Aires",
+      "valid_count": 20
+    },
+    {
+      "index": 67,
+      "breed_name": "Cao De Castro Laboreiro",
+      "valid_count": 20
+    },
+    {
+      "index": 68,
+      "breed_name": "Cao De Agua Portugues",
+      "valid_count": 20
+    },
+    {
+      "index": 69,
+      "breed_name": "Cardigan Welsh Corgi",
+      "valid_count": 20
+    },
+    {
+      "index": 70,
+      "breed_name": "Cavalier King Charles Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 71,
+      "breed_name": "Central Asian Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 72,
+      "breed_name": "Cesky Fousek",
+      "valid_count": 20
+    },
+    {
+      "index": 73,
+      "breed_name": "Cesky Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 74,
+      "breed_name": "Chesapeake Bay Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 75,
+      "breed_name": "Chihuahua",
+      "valid_count": 20
+    },
+    {
+      "index": 76,
+      "breed_name": "Chinese Crested Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 77,
+      "breed_name": "Chow Chow",
+      "valid_count": 20
+    },
+    {
+      "index": 78,
+      "breed_name": "Cimarr\u00f3n Uruguayo",
+      "valid_count": 20
+    },
+    {
+      "index": 79,
+      "breed_name": "Cirneco Dell'Etna",
+      "valid_count": 20
+    },
+    {
+      "index": 80,
+      "breed_name": "Clumber Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 81,
+      "breed_name": "Coarse-haired Istrian Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 82,
+      "breed_name": "Collie Rough",
+      "valid_count": 20
+    },
+    {
+      "index": 83,
+      "breed_name": "Collie Smooth",
+      "valid_count": 20
+    },
+    {
+      "index": 84,
+      "breed_name": "Coton De Tulear",
+      "valid_count": 20
+    },
+    {
+      "index": 85,
+      "breed_name": "Curly Coated Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 86,
+      "breed_name": "Czechoslovakian Vlcak",
+      "valid_count": 20
+    },
+    {
+      "index": 87,
+      "breed_name": "Dachshund",
+      "valid_count": 20
+    },
+    {
+      "index": 88,
+      "breed_name": "Dalmatian",
+      "valid_count": 20
+    },
+    {
+      "index": 89,
+      "breed_name": "Dandie Dinmont Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 90,
+      "breed_name": "Danish-Swedish Farmdog",
+      "valid_count": 20
+    },
+    {
+      "index": 91,
+      "breed_name": "Dobermann",
+      "valid_count": 20
+    },
+    {
+      "index": 92,
+      "breed_name": "Dogo Argentino",
+      "valid_count": 20
+    },
+    {
+      "index": 93,
+      "breed_name": "Dogue De Bordeaux",
+      "valid_count": 20
+    },
+    {
+      "index": 94,
+      "breed_name": "Drentsche Patrijshond",
+      "valid_count": 20
+    },
+    {
+      "index": 95,
+      "breed_name": "Drever",
+      "valid_count": 20
+    },
+    {
+      "index": 96,
+      "breed_name": "Dunker",
+      "valid_count": 20
+    },
+    {
+      "index": 97,
+      "breed_name": "Dutch Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 98,
+      "breed_name": "Dutch Smoushond",
+      "valid_count": 20
+    },
+    {
+      "index": 99,
+      "breed_name": "East Siberian Laika",
+      "valid_count": 20
+    },
+    {
+      "index": 100,
+      "breed_name": "English Cocker Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 101,
+      "breed_name": "English Foxhound",
+      "valid_count": 20
+    },
+    {
+      "index": 102,
+      "breed_name": "English Pointer",
+      "valid_count": 20
+    },
+    {
+      "index": 103,
+      "breed_name": "English Setter",
+      "valid_count": 20
+    },
+    {
+      "index": 104,
+      "breed_name": "English Springer Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 105,
+      "breed_name": "English Toy Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 106,
+      "breed_name": "Entlebucher Sennenhund",
+      "valid_count": 20
+    },
+    {
+      "index": 107,
+      "breed_name": "Estonian Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 108,
+      "breed_name": "Estrela Mountain Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 109,
+      "breed_name": "Eurasier",
+      "valid_count": 20
+    },
+    {
+      "index": 110,
+      "breed_name": "Field Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 111,
+      "breed_name": "Finnish Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 112,
+      "breed_name": "Finnish Lapphund",
+      "valid_count": 20
+    },
+    {
+      "index": 113,
+      "breed_name": "Finnish Spitz",
+      "valid_count": 20
+    },
+    {
+      "index": 114,
+      "breed_name": "Flat Coated Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 115,
+      "breed_name": "Fox Terrier Smooth",
+      "valid_count": 20
+    },
+    {
+      "index": 116,
+      "breed_name": "Fox Terrier Wire",
+      "valid_count": 20
+    },
+    {
+      "index": 117,
+      "breed_name": "French Bulldog",
+      "valid_count": 20
+    },
+    {
+      "index": 118,
+      "breed_name": "French Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 119,
+      "breed_name": "Gascon Saintongeois",
+      "valid_count": 20
+    },
+    {
+      "index": 120,
+      "breed_name": "German Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 121,
+      "breed_name": "German Pinscher",
+      "valid_count": 20
+    },
+    {
+      "index": 122,
+      "breed_name": "German Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 123,
+      "breed_name": "German Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 124,
+      "breed_name": "German Spitz",
+      "valid_count": 20
+    },
+    {
+      "index": 125,
+      "breed_name": "German Wirehaired Pointer",
+      "valid_count": 20
+    },
+    {
+      "index": 126,
+      "breed_name": "Giant Schnauzer",
+      "valid_count": 20
+    },
+    {
+      "index": 127,
+      "breed_name": "Glen Of Imaal Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 128,
+      "breed_name": "Golden Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 129,
+      "breed_name": "Gordon Setter",
+      "valid_count": 20
+    },
+    {
+      "index": 130,
+      "breed_name": "Grand Basset Griffon Vendeen",
+      "valid_count": 20
+    },
+    {
+      "index": 131,
+      "breed_name": "Grand Bleu De Gascogne",
+      "valid_count": 20
+    },
+    {
+      "index": 132,
+      "breed_name": "Great Dane",
+      "valid_count": 20
+    },
+    {
+      "index": 133,
+      "breed_name": "Great Pyrenees",
+      "valid_count": 20
+    },
+    {
+      "index": 134,
+      "breed_name": "Greater Swiss Mountain Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 135,
+      "breed_name": "Greenland Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 136,
+      "breed_name": "Greyhound",
+      "valid_count": 20
+    },
+    {
+      "index": 137,
+      "breed_name": "Griffon Bruxellois",
+      "valid_count": 20
+    },
+    {
+      "index": 138,
+      "breed_name": "Griffon Nivernais",
+      "valid_count": 20
+    },
+    {
+      "index": 139,
+      "breed_name": "Hamiltonstovare",
+      "valid_count": 20
+    },
+    {
+      "index": 140,
+      "breed_name": "Hanover Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 141,
+      "breed_name": "Harrier",
+      "valid_count": 20
+    },
+    {
+      "index": 142,
+      "breed_name": "Havanese",
+      "valid_count": 20
+    },
+    {
+      "index": 143,
+      "breed_name": "Hokkaido",
+      "valid_count": 20
+    },
+    {
+      "index": 144,
+      "breed_name": "Hovawart",
+      "valid_count": 20
+    },
+    {
+      "index": 145,
+      "breed_name": "Hungarian Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 146,
+      "breed_name": "Ibizan Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 147,
+      "breed_name": "Icelandic Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 148,
+      "breed_name": "Irish Red And White Setter",
+      "valid_count": 20
+    },
+    {
+      "index": 149,
+      "breed_name": "Irish Setter",
+      "valid_count": 20
+    },
+    {
+      "index": 150,
+      "breed_name": "Irish Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 151,
+      "breed_name": "Irish Water Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 152,
+      "breed_name": "Irish Wolfhound",
+      "valid_count": 20
+    },
+    {
+      "index": 153,
+      "breed_name": "Italian Greyhound",
+      "valid_count": 20
+    },
+    {
+      "index": 154,
+      "breed_name": "Italian Spinone",
+      "valid_count": 20
+    },
+    {
+      "index": 155,
+      "breed_name": "Jack Russell Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 156,
+      "breed_name": "Japanese Chin",
+      "valid_count": 20
+    },
+    {
+      "index": 157,
+      "breed_name": "Japanese Spitz",
+      "valid_count": 20
+    },
+    {
+      "index": 158,
+      "breed_name": "Japanese Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 159,
+      "breed_name": "J\u00e4mthund",
+      "valid_count": 20
+    },
+    {
+      "index": 160,
+      "breed_name": "Kai Ken",
+      "valid_count": 20
+    },
+    {
+      "index": 161,
+      "breed_name": "Kangal Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 162,
+      "breed_name": "Karelian Bear Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 163,
+      "breed_name": "Karst Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 164,
+      "breed_name": "Keeshond",
+      "valid_count": 20
+    },
+    {
+      "index": 165,
+      "breed_name": "Kerry Blue Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 166,
+      "breed_name": "King Charles Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 167,
+      "breed_name": "Kishu",
+      "valid_count": 20
+    },
+    {
+      "index": 168,
+      "breed_name": "Komondor",
+      "valid_count": 20
+    },
+    {
+      "index": 169,
+      "breed_name": "Kromfohrl\u00e4nder",
+      "valid_count": 20
+    },
+    {
+      "index": 170,
+      "breed_name": "Kuvasz",
+      "valid_count": 20
+    },
+    {
+      "index": 171,
+      "breed_name": "Labrador Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 172,
+      "breed_name": "Lagotto Romagnolo",
+      "valid_count": 20
+    },
+    {
+      "index": 173,
+      "breed_name": "Lakeland Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 174,
+      "breed_name": "Lancashire Heeler",
+      "valid_count": 20
+    },
+    {
+      "index": 175,
+      "breed_name": "Landseer",
+      "valid_count": 20
+    },
+    {
+      "index": 176,
+      "breed_name": "Lapponian Herder",
+      "valid_count": 20
+    },
+    {
+      "index": 177,
+      "breed_name": "Large Munsterlander",
+      "valid_count": 20
+    },
+    {
+      "index": 178,
+      "breed_name": "Leonberger",
+      "valid_count": 20
+    },
+    {
+      "index": 179,
+      "breed_name": "Lhasa Apso",
+      "valid_count": 20
+    },
+    {
+      "index": 180,
+      "breed_name": "L\u00f6wchen",
+      "valid_count": 20
+    },
+    {
+      "index": 181,
+      "breed_name": "Maltese",
+      "valid_count": 20
+    },
+    {
+      "index": 182,
+      "breed_name": "Manchester Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 183,
+      "breed_name": "Maremma Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 184,
+      "breed_name": "Miniature Bull Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 185,
+      "breed_name": "Miniature Pinscher",
+      "valid_count": 20
+    },
+    {
+      "index": 186,
+      "breed_name": "Miniature Schnauzer",
+      "valid_count": 20
+    },
+    {
+      "index": 187,
+      "breed_name": "Montenegrin Mountain Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 188,
+      "breed_name": "Mudi",
+      "valid_count": 20
+    },
+    {
+      "index": 189,
+      "breed_name": "Neapolitan Mastiff",
+      "valid_count": 20
+    },
+    {
+      "index": 190,
+      "breed_name": "Nederlandse Kooikerhondje",
+      "valid_count": 20
+    },
+    {
+      "index": 191,
+      "breed_name": "Newfoundland",
+      "valid_count": 20
+    },
+    {
+      "index": 192,
+      "breed_name": "Norfolk Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 193,
+      "breed_name": "Norrbottenspets",
+      "valid_count": 20
+    },
+    {
+      "index": 194,
+      "breed_name": "Northeastern Hauling Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 195,
+      "breed_name": "Norwegian Elkhound",
+      "valid_count": 20
+    },
+    {
+      "index": 196,
+      "breed_name": "Norwegian Buhund",
+      "valid_count": 20
+    },
+    {
+      "index": 197,
+      "breed_name": "Norwegian Lundehund",
+      "valid_count": 20
+    },
+    {
+      "index": 198,
+      "breed_name": "Norwich Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 199,
+      "breed_name": "Nova Scotia Duck Tolling Retriever",
+      "valid_count": 20
+    },
+    {
+      "index": 200,
+      "breed_name": "Old English Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 201,
+      "breed_name": "Otterhound",
+      "valid_count": 20
+    },
+    {
+      "index": 202,
+      "breed_name": "Papillon",
+      "valid_count": 20
+    },
+    {
+      "index": 203,
+      "breed_name": "Parson Russell Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 204,
+      "breed_name": "Pekingese",
+      "valid_count": 20
+    },
+    {
+      "index": 205,
+      "breed_name": "Pembroke Welsh Corgi",
+      "valid_count": 20
+    },
+    {
+      "index": 206,
+      "breed_name": "Perro De Presa Canario",
+      "valid_count": 20
+    },
+    {
+      "index": 207,
+      "breed_name": "Peruvian Hairless Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 208,
+      "breed_name": "Petit Basset Griffon Vendeen",
+      "valid_count": 20
+    },
+    {
+      "index": 209,
+      "breed_name": "Petit Braban\u00e7on",
+      "valid_count": 20
+    },
+    {
+      "index": 210,
+      "breed_name": "Pharaoh Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 211,
+      "breed_name": "Picardy Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 212,
+      "breed_name": "Plott Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 213,
+      "breed_name": "Podenco Canario",
+      "valid_count": 20
+    },
+    {
+      "index": 214,
+      "breed_name": "Pointer",
+      "valid_count": 20
+    },
+    {
+      "index": 215,
+      "breed_name": "Poitevin",
+      "valid_count": 20
+    },
+    {
+      "index": 216,
+      "breed_name": "Polish Greyhound",
+      "valid_count": 20
+    },
+    {
+      "index": 217,
+      "breed_name": "Polish Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 218,
+      "breed_name": "Polish Lowland Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 219,
+      "breed_name": "Pomeranian",
+      "valid_count": 20
+    },
+    {
+      "index": 220,
+      "breed_name": "Poodle Standard",
+      "valid_count": 20
+    },
+    {
+      "index": 221,
+      "breed_name": "Poodle Miniature",
+      "valid_count": 20
+    },
+    {
+      "index": 222,
+      "breed_name": "Poodle Toy",
+      "valid_count": 20
+    },
+    {
+      "index": 223,
+      "breed_name": "Porcelaine",
+      "valid_count": 20
+    },
+    {
+      "index": 224,
+      "breed_name": "Portuguese Podengo",
+      "valid_count": 20
+    },
+    {
+      "index": 225,
+      "breed_name": "Portuguese Pointer",
+      "valid_count": 20
+    },
+    {
+      "index": 226,
+      "breed_name": "Posavac Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 227,
+      "breed_name": "Pudelpointer",
+      "valid_count": 20
+    },
+    {
+      "index": 228,
+      "breed_name": "Pug",
+      "valid_count": 20
+    },
+    {
+      "index": 229,
+      "breed_name": "Puli",
+      "valid_count": 20
+    },
+    {
+      "index": 230,
+      "breed_name": "Pumi",
+      "valid_count": 20
+    },
+    {
+      "index": 231,
+      "breed_name": "Pyrenean Mastiff",
+      "valid_count": 20
+    },
+    {
+      "index": 232,
+      "breed_name": "Pyrenean Mountain Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 233,
+      "breed_name": "Pyrenean Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 234,
+      "breed_name": "Rafeiro Do Alentejo",
+      "valid_count": 20
+    },
+    {
+      "index": 235,
+      "breed_name": "Rhodesian Ridgeback",
+      "valid_count": 20
+    },
+    {
+      "index": 236,
+      "breed_name": "Rottweiler",
+      "valid_count": 20
+    },
+    {
+      "index": 237,
+      "breed_name": "Romanian Mioritic Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 238,
+      "breed_name": "Russian Toy",
+      "valid_count": 20
+    },
+    {
+      "index": 239,
+      "breed_name": "Saarloos Wolfdog",
+      "valid_count": 20
+    },
+    {
+      "index": 240,
+      "breed_name": "Saint Bernard",
+      "valid_count": 20
+    },
+    {
+      "index": 241,
+      "breed_name": "Saluki",
+      "valid_count": 20
+    },
+    {
+      "index": 242,
+      "breed_name": "Samoyed",
+      "valid_count": 20
+    },
+    {
+      "index": 243,
+      "breed_name": "Schapendoes",
+      "valid_count": 20
+    },
+    {
+      "index": 244,
+      "breed_name": "Schillerstovare",
+      "valid_count": 20
+    },
+    {
+      "index": 245,
+      "breed_name": "Schipperke",
+      "valid_count": 20
+    },
+    {
+      "index": 246,
+      "breed_name": "Schnauzer Standard",
+      "valid_count": 20
+    },
+    {
+      "index": 247,
+      "breed_name": "Scottish Deerhound",
+      "valid_count": 20
+    },
+    {
+      "index": 248,
+      "breed_name": "Scottish Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 249,
+      "breed_name": "Sealyham Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 250,
+      "breed_name": "Segugio Italiano",
+      "valid_count": 20
+    },
+    {
+      "index": 251,
+      "breed_name": "Shar Pei",
+      "valid_count": 20
+    },
+    {
+      "index": 252,
+      "breed_name": "Shetland Sheepdog",
+      "valid_count": 20
+    },
+    {
+      "index": 253,
+      "breed_name": "Shiba Inu",
+      "valid_count": 20
+    },
+    {
+      "index": 254,
+      "breed_name": "Shih Tzu",
+      "valid_count": 20
+    },
+    {
+      "index": 255,
+      "breed_name": "Shikoku",
+      "valid_count": 20
+    },
+    {
+      "index": 256,
+      "breed_name": "Siberian Husky",
+      "valid_count": 20
+    },
+    {
+      "index": 257,
+      "breed_name": "Skye Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 258,
+      "breed_name": "Sloughi",
+      "valid_count": 20
+    },
+    {
+      "index": 259,
+      "breed_name": "Slovakian Chovac",
+      "valid_count": 20
+    },
+    {
+      "index": 260,
+      "breed_name": "Small Munsterlander",
+      "valid_count": 20
+    },
+    {
+      "index": 261,
+      "breed_name": "Smooth Fox Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 262,
+      "breed_name": "Soft Coated Wheaten Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 263,
+      "breed_name": "Spanish Mastiff",
+      "valid_count": 20
+    },
+    {
+      "index": 264,
+      "breed_name": "Spanish Water Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 265,
+      "breed_name": "Spinone Italiano",
+      "valid_count": 20
+    },
+    {
+      "index": 266,
+      "breed_name": "Stabyhoun",
+      "valid_count": 20
+    },
+    {
+      "index": 267,
+      "breed_name": "Staffordshire Bull Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 268,
+      "breed_name": "Standard Schnauzer",
+      "valid_count": 20
+    },
+    {
+      "index": 269,
+      "breed_name": "Sussex Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 270,
+      "breed_name": "Swedish Lapphund",
+      "valid_count": 20
+    },
+    {
+      "index": 271,
+      "breed_name": "Swiss Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 272,
+      "breed_name": "Taiwan Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 273,
+      "breed_name": "Tatra Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 274,
+      "breed_name": "Thai Ridgeback",
+      "valid_count": 20
+    },
+    {
+      "index": 275,
+      "breed_name": "Tibetan Mastiff",
+      "valid_count": 20
+    },
+    {
+      "index": 276,
+      "breed_name": "Tibetan Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 277,
+      "breed_name": "Tibetan Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 278,
+      "breed_name": "Tosa",
+      "valid_count": 20
+    },
+    {
+      "index": 279,
+      "breed_name": "Toy Fox Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 280,
+      "breed_name": "Treeing Walker Coonhound",
+      "valid_count": 20
+    },
+    {
+      "index": 281,
+      "breed_name": "Tyrolean Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 282,
+      "breed_name": "Vizsla Wirehaired",
+      "valid_count": 20
+    },
+    {
+      "index": 283,
+      "breed_name": "Volpino Italiano",
+      "valid_count": 20
+    },
+    {
+      "index": 284,
+      "breed_name": "Weimaraner",
+      "valid_count": 20
+    },
+    {
+      "index": 285,
+      "breed_name": "Welsh Springer Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 286,
+      "breed_name": "Welsh Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 287,
+      "breed_name": "West Highland White Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 288,
+      "breed_name": "West Siberian Laika",
+      "valid_count": 20
+    },
+    {
+      "index": 289,
+      "breed_name": "Wetterhoun",
+      "valid_count": 20
+    },
+    {
+      "index": 290,
+      "breed_name": "Whippet",
+      "valid_count": 20
+    },
+    {
+      "index": 291,
+      "breed_name": "White Swiss Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 292,
+      "breed_name": "Wirehaired Pointing Griffon",
+      "valid_count": 20
+    },
+    {
+      "index": 293,
+      "breed_name": "Xoloitzcuintli",
+      "valid_count": 20
+    },
+    {
+      "index": 294,
+      "breed_name": "Yakutian Laika",
+      "valid_count": 20
+    },
+    {
+      "index": 295,
+      "breed_name": "Yorkshire Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 296,
+      "breed_name": "Yugoslavian Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 297,
+      "breed_name": "American Bully",
+      "valid_count": 20
+    },
+    {
+      "index": 298,
+      "breed_name": "Australian Stumpy Tail Cattle Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 299,
+      "breed_name": "Barbet French Water Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 300,
+      "breed_name": "Boerboel",
+      "valid_count": 20
+    },
+    {
+      "index": 301,
+      "breed_name": "Bulgarian Shepherd",
+      "valid_count": 20
+    },
+    {
+      "index": 302,
+      "breed_name": "Catahoula Leopard Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 303,
+      "breed_name": "Caucasian Shepherd Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 304,
+      "breed_name": "Central Asian Ovcharka",
+      "valid_count": 20
+    },
+    {
+      "index": 305,
+      "breed_name": "Chodsky Pes",
+      "valid_count": 20
+    },
+    {
+      "index": 306,
+      "breed_name": "Denmark Farmdog",
+      "valid_count": 20
+    },
+    {
+      "index": 307,
+      "breed_name": "Eurasier Spitz",
+      "valid_count": 20
+    },
+    {
+      "index": 308,
+      "breed_name": "Gaddi Kutta",
+      "valid_count": 20
+    },
+    {
+      "index": 309,
+      "breed_name": "Kintamani Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 310,
+      "breed_name": "Koolie",
+      "valid_count": 20
+    },
+    {
+      "index": 311,
+      "breed_name": "Mudhol Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 312,
+      "breed_name": "Patterdale Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 313,
+      "breed_name": "Rajapalayam",
+      "valid_count": 20
+    },
+    {
+      "index": 314,
+      "breed_name": "Rampur Greyhound",
+      "valid_count": 20
+    },
+    {
+      "index": 315,
+      "breed_name": "Russian Spaniel",
+      "valid_count": 20
+    },
+    {
+      "index": 316,
+      "breed_name": "Salish Wool Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 317,
+      "breed_name": "Sapsali",
+      "valid_count": 20
+    },
+    {
+      "index": 318,
+      "breed_name": "Silken Windhound",
+      "valid_count": 20
+    },
+    {
+      "index": 319,
+      "breed_name": "Tamaskan Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 320,
+      "breed_name": "Tornjak",
+      "valid_count": 20
+    },
+    {
+      "index": 321,
+      "breed_name": "Transylvanian Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 322,
+      "breed_name": "Treeing Cur",
+      "valid_count": 20
+    },
+    {
+      "index": 323,
+      "breed_name": "Verde Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 324,
+      "breed_name": "Welsh Corgi Cardigan",
+      "valid_count": 20
+    },
+    {
+      "index": 325,
+      "breed_name": "Welsh Corgi Pembroke",
+      "valid_count": 20
+    },
+    {
+      "index": 326,
+      "breed_name": "Wetterhoun Frisian",
+      "valid_count": 20
+    },
+    {
+      "index": 327,
+      "breed_name": "Working Kelpie",
+      "valid_count": 20
+    },
+    {
+      "index": 328,
+      "breed_name": "Alaskan Klee Kai",
+      "valid_count": 20
+    },
+    {
+      "index": 329,
+      "breed_name": "American Pit Bull Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 330,
+      "breed_name": "American Hairless Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 331,
+      "breed_name": "Black and Tan Virginian Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 332,
+      "breed_name": "Blue Lacy",
+      "valid_count": 20
+    },
+    {
+      "index": 333,
+      "breed_name": "Boykin Spaniel Water Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 334,
+      "breed_name": "Carolina Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 335,
+      "breed_name": "Catahoula Leopard Hound",
+      "valid_count": 20
+    },
+    {
+      "index": 336,
+      "breed_name": "Chinook",
+      "valid_count": 20
+    },
+    {
+      "index": 337,
+      "breed_name": "Cockapoo",
+      "valid_count": 20
+    },
+    {
+      "index": 338,
+      "breed_name": "Doberman Pinscher Standard",
+      "valid_count": 20
+    },
+    {
+      "index": 339,
+      "breed_name": "Goldendoodle",
+      "valid_count": 20
+    },
+    {
+      "index": 340,
+      "breed_name": "Labradoodle",
+      "valid_count": 20
+    },
+    {
+      "index": 341,
+      "breed_name": "Miniature American Shepherd",
+      "valid_count": 20
+    },
+    {
+      "index": 342,
+      "breed_name": "Mi-Ki",
+      "valid_count": 20
+    },
+    {
+      "index": 343,
+      "breed_name": "Olde English Bulldogge",
+      "valid_count": 20
+    },
+    {
+      "index": 344,
+      "breed_name": "Peakapoo",
+      "valid_count": 20
+    },
+    {
+      "index": 345,
+      "breed_name": "Pitsky",
+      "valid_count": 20
+    },
+    {
+      "index": 346,
+      "breed_name": "Puggle",
+      "valid_count": 20
+    },
+    {
+      "index": 347,
+      "breed_name": "Rat Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 348,
+      "breed_name": "Redbone Coonhound",
+      "valid_count": 20
+    },
+    {
+      "index": 349,
+      "breed_name": "Schnoodle",
+      "valid_count": 20
+    },
+    {
+      "index": 350,
+      "breed_name": "Shollie",
+      "valid_count": 20
+    },
+    {
+      "index": 351,
+      "breed_name": "St. Bernard Mountain Dog",
+      "valid_count": 20
+    },
+    {
+      "index": 352,
+      "breed_name": "Teddy Roosevelt Terrier",
+      "valid_count": 20
+    },
+    {
+      "index": 353,
+      "breed_name": "Texas Heeler",
+      "valid_count": 20
+    },
+    {
+      "index": 354,
+      "breed_name": "Treeing Tennessee Brindle",
+      "valid_count": 20
+    },
+    {
+      "index": 355,
+      "breed_name": "Volpino Italiano Standard",
+      "valid_count": 20
+    }
+  ]
+}

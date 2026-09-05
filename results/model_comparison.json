@@ -1,0 +1,15 @@
+{
+  "models": [
+    {
+      "model_name": "MobileNetV2 Transfer",
+      "num_classes": 356,
+      "accuracy": 0.06928838951310862,
+      "precision": 0.03263502359314077,
+      "recall": 0.06928838951310862,
+      "f1_score": 0.034433795335583564
+    }
+  ],
+  "best_model": "MobileNetV2 Transfer",
+  "best_accuracy": 0.06928838951310862,
+  "total_supported_classes": 356
+}
